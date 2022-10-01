@@ -1,0 +1,266 @@
+{
+  "build": "py310h4e76f89_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "numpy >=1.21.5,<2.0a0",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "/opt/miniconda3/pkgs/cython-blis-0.7.7-py310h4e76f89_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/LICENSE",
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/METADATA",
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/RECORD",
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/WHEEL",
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/blis-0.7.7.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/blis/__init__.pxd",
+    "lib/python3.10/site-packages/blis/__init__.py",
+    "lib/python3.10/site-packages/blis/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/blis/__pycache__/about.cpython-310.pyc",
+    "lib/python3.10/site-packages/blis/__pycache__/benchmark.cpython-310.pyc",
+    "lib/python3.10/site-packages/blis/about.py",
+    "lib/python3.10/site-packages/blis/benchmark.py",
+    "lib/python3.10/site-packages/blis/cy.cpython-310-darwin.so",
+    "lib/python3.10/site-packages/blis/cy.pxd",
+    "lib/python3.10/site-packages/blis/cy.pyx",
+    "lib/python3.10/site-packages/blis/py.cpython-310-darwin.so",
+    "lib/python3.10/site-packages/blis/py.pyx",
+    "lib/python3.10/site-packages/blis/tests/__init__.py",
+    "lib/python3.10/site-packages/blis/tests/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/blis/tests/__pycache__/common.cpython-310.pyc",
+    "lib/python3.10/site-packages/blis/tests/__pycache__/test_dotv.cpython-310.pyc",
+    "lib/python3.10/site-packages/blis/tests/__pycache__/test_gemm.cpython-310.pyc",
+    "lib/python3.10/site-packages/blis/tests/common.py",
+    "lib/python3.10/site-packages/blis/tests/test_dotv.py",
+    "lib/python3.10/site-packages/blis/tests/test_gemm.py"
+  ],
+  "fn": "cython-blis-0.7.7-py310h4e76f89_0.conda",
+  "legacy_bz2_md5": "1695416718c31e02fb95e601e38a39f7",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/opt/miniconda3/pkgs/cython-blis-0.7.7-py310h4e76f89_0",
+    "type": 1
+  },
+  "md5": "3419cb6e9bf3ba77b5059b92f82bf9ba",
+  "name": "cython-blis",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/cython-blis-0.7.7-py310h4e76f89_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "730031e418c53828d32b3746e2ac618ada7d8e7a4d568909c0f989b53fa84378",
+        "sha256_in_prefix": "730031e418c53828d32b3746e2ac618ada7d8e7a4d568909c0f989b53fa84378",
+        "size_in_bytes": 2033
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9ca79de0dfa6d03f65df682bff4c976d4a585e5b905ca48ac224f215510d6740",
+        "sha256_in_prefix": "9ca79de0dfa6d03f65df682bff4c976d4a585e5b905ca48ac224f215510d6740",
+        "size_in_bytes": 7315
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6d2221432a31ab4139e63b302d318186f0839aa308c81f9e877a2a103358c4cc",
+        "sha256_in_prefix": "6d2221432a31ab4139e63b302d318186f0839aa308c81f9e877a2a103358c4cc",
+        "size_in_bytes": 1972
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c075cf8dc1753dbbeb6a5ad90197df68145f316f2effb77e2feab7b25212ec6a",
+        "sha256_in_prefix": "c075cf8dc1753dbbeb6a5ad90197df68145f316f2effb77e2feab7b25212ec6a",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f582ee47f0071ee58aaca1b5c0125b87d08e57dcc538ae84de5f260dd51ca3e5",
+        "sha256_in_prefix": "f582ee47f0071ee58aaca1b5c0125b87d08e57dcc538ae84de5f260dd51ca3e5",
+        "size_in_bytes": 143
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis-0.7.7.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "caa6480433eaabd45e7c7bb43d63d698e41f8612ac072d76d1ea0b4cc9665e40",
+        "sha256_in_prefix": "caa6480433eaabd45e7c7bb43d63d698e41f8612ac072d76d1ea0b4cc9665e40",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/__init__.pxd",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "34e67b6a5e6454be5daddc6112103e0ed1eef3ac5cc93f48d54b7329536fd621",
+        "sha256_in_prefix": "34e67b6a5e6454be5daddc6112103e0ed1eef3ac5cc93f48d54b7329536fd621",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8c86c7f9441bc4b23c65753fe9faadb9a4767d25eeb6554a0466a325044ed3b",
+        "sha256_in_prefix": "a8c86c7f9441bc4b23c65753fe9faadb9a4767d25eeb6554a0466a325044ed3b",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/__pycache__/about.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f6f67c62eaecfee54431363d3a30cfac402703adce78d9785e48d4d8c949f4f3",
+        "sha256_in_prefix": "f6f67c62eaecfee54431363d3a30cfac402703adce78d9785e48d4d8c949f4f3",
+        "size_in_bytes": 466
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/__pycache__/benchmark.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "2ddfb26e4e6c57a77283ee92410cdbe4af6b8b7caa0ce47a01e63ef8ff53e081",
+        "sha256_in_prefix": "2ddfb26e4e6c57a77283ee92410cdbe4af6b8b7caa0ce47a01e63ef8ff53e081",
+        "size_in_bytes": 2748
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/about.py",
+        "path_type": "hardlink",
+        "sha256": "f6c5838cd4b56d4df0644e3b97a586d5f31178b8d022b64545301186a738474e",
+        "sha256_in_prefix": "f6c5838cd4b56d4df0644e3b97a586d5f31178b8d022b64545301186a738474e",
+        "size_in_bytes": 541
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/benchmark.py",
+        "path_type": "hardlink",
+        "sha256": "d1dceb3a8b4486b28f069845422fbb2adccd611db1ba6030dc386925e100b95c",
+        "sha256_in_prefix": "d1dceb3a8b4486b28f069845422fbb2adccd611db1ba6030dc386925e100b95c",
+        "size_in_bytes": 2659
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/cy.cpython-310-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/5e22b00b-67c0-417c-4e60-f300d35e6579/volume/cython-blis_1651221770981/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "b0503856d1da6f76946e4bea37ed9c5c4999078b6bc377634ca5fde13014f998",
+        "sha256_in_prefix": "0cf65f208191c2f59252a53e0002579e4aab300de4f322b86fc443a27a81147e",
+        "size_in_bytes": 10524968
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/cy.pxd",
+        "path_type": "hardlink",
+        "sha256": "c2af0eefcbe15f046b678fafab28e5e9e4892f46a40e121b12d1d960b4309336",
+        "sha256_in_prefix": "c2af0eefcbe15f046b678fafab28e5e9e4892f46a40e121b12d1d960b4309336",
+        "size_in_bytes": 2993
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/cy.pyx",
+        "path_type": "hardlink",
+        "sha256": "63b6c64e64ad090715ff66f21d1c3c4ab54b711c964ea28749dddc3d29d5a9a2",
+        "sha256_in_prefix": "63b6c64e64ad090715ff66f21d1c3c4ab54b711c964ea28749dddc3d29d5a9a2",
+        "size_in_bytes": 15804
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/py.cpython-310-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/5e22b00b-67c0-417c-4e60-f300d35e6579/volume/cython-blis_1651221770981/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "891244f74dfc33edc902654247368e89d2036515ba2283db0390f72ab15ee48d",
+        "sha256_in_prefix": "09ad7b9e0fb1de6e3233d8b48f26f35c945a7859c6fe5ce40072684fed6b988d",
+        "size_in_bytes": 10654736
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/py.pyx",
+        "path_type": "hardlink",
+        "sha256": "da40ad33b2d1b507aad49381fa1b89c6e5d583c95b92a28af9cafbc54e732850",
+        "sha256_in_prefix": "da40ad33b2d1b507aad49381fa1b89c6e5d583c95b92a28af9cafbc54e732850",
+        "size_in_bytes": 6951
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f3ac1960267bb623c4d438b2fdeef55204106d4f4345bf7d8701cc99f6b097b",
+        "sha256_in_prefix": "9f3ac1960267bb623c4d438b2fdeef55204106d4f4345bf7d8701cc99f6b097b",
+        "size_in_bytes": 144
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/__pycache__/common.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "1da570ba9792d8739491fb0f9e74b3451d3bc4cac0789e89912895932eb4c08d",
+        "sha256_in_prefix": "1da570ba9792d8739491fb0f9e74b3451d3bc4cac0789e89912895932eb4c08d",
+        "size_in_bytes": 3225
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/__pycache__/test_dotv.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "703570c3e971e1365e0123a7414da9fa933da0ea375930c5f91c365e2aaaf424",
+        "sha256_in_prefix": "703570c3e971e1365e0123a7414da9fa933da0ea375930c5f91c365e2aaaf424",
+        "size_in_bytes": 1092
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/__pycache__/test_gemm.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "06bcbd7b875d7ce151c5757da3720eff5f5042df8ba1922e84057b5cea01ca79",
+        "sha256_in_prefix": "06bcbd7b875d7ce151c5757da3720eff5f5042df8ba1922e84057b5cea01ca79",
+        "size_in_bytes": 2206
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/common.py",
+        "path_type": "hardlink",
+        "sha256": "9047f9d9f85d18d5f16a141581ac46738f83c8e1b9d1ceff33a90c06e9979143",
+        "sha256_in_prefix": "9047f9d9f85d18d5f16a141581ac46738f83c8e1b9d1ceff33a90c06e9979143",
+        "size_in_bytes": 2577
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/test_dotv.py",
+        "path_type": "hardlink",
+        "sha256": "046b0795275f6562430d2cbb67934a5da26a26510e55af7f7f781fc1676d621b",
+        "sha256_in_prefix": "046b0795275f6562430d2cbb67934a5da26a26510e55af7f7f781fc1676d621b",
+        "size_in_bytes": 1134
+      },
+      {
+        "_path": "lib/python3.10/site-packages/blis/tests/test_gemm.py",
+        "path_type": "hardlink",
+        "sha256": "3f4e34e3b451b894b86a4873aceb21dbee5480ef5d655b037593d8c0d5c929ce",
+        "sha256_in_prefix": "3f4e34e3b451b894b86a4873aceb21dbee5480ef5d655b037593d8c0d5c929ce",
+        "size_in_bytes": 2493
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "16256e87521509daaea8708d35c68e7afa8191dff9ba4ba02f9ae4570d0dfb7b",
+  "size": 1837615,
+  "subdir": "osx-64",
+  "timestamp": 1651222898956,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/cython-blis-0.7.7-py310h4e76f89_0.conda",
+  "version": "0.7.7"
+}

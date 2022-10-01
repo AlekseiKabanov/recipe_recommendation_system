@@ -1,0 +1,296 @@
+{
+  "build": "py310hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "click >=7.1.1,<9.0.0",
+    "colorama >=0.4.3,<0.5.0",
+    "python >=3.10,<3.11.0a0",
+    "shellingham >=1.3.0,<2.0.0"
+  ],
+  "extracted_package_dir": "/opt/miniconda3/pkgs/typer-0.4.1-py310hecd8cb5_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/typer-0.4.1.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/typer-0.4.1.dist-info/LICENSE",
+    "lib/python3.10/site-packages/typer-0.4.1.dist-info/METADATA",
+    "lib/python3.10/site-packages/typer-0.4.1.dist-info/RECORD",
+    "lib/python3.10/site-packages/typer-0.4.1.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/typer-0.4.1.dist-info/WHEEL",
+    "lib/python3.10/site-packages/typer-0.4.1.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/typer/__init__.py",
+    "lib/python3.10/site-packages/typer/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/_completion_click7.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/_completion_click8.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/_completion_shared.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/colors.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/completion.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/core.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/main.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/models.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/params.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/testing.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/typer/_completion_click7.py",
+    "lib/python3.10/site-packages/typer/_completion_click8.py",
+    "lib/python3.10/site-packages/typer/_completion_shared.py",
+    "lib/python3.10/site-packages/typer/colors.py",
+    "lib/python3.10/site-packages/typer/completion.py",
+    "lib/python3.10/site-packages/typer/core.py",
+    "lib/python3.10/site-packages/typer/main.py",
+    "lib/python3.10/site-packages/typer/models.py",
+    "lib/python3.10/site-packages/typer/params.py",
+    "lib/python3.10/site-packages/typer/py.typed",
+    "lib/python3.10/site-packages/typer/testing.py",
+    "lib/python3.10/site-packages/typer/utils.py"
+  ],
+  "fn": "typer-0.4.1-py310hecd8cb5_0.conda",
+  "legacy_bz2_md5": "32bc25b956f15775a9d30d31696a6709",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/opt/miniconda3/pkgs/typer-0.4.1-py310hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "a3a47e49dcacdedce979737a9bcfb45f",
+  "name": "typer",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/typer-0.4.1-py310hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/typer-0.4.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer-0.4.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "58992cebcf8dfb6e40c4e2112ed12126c243666dca3912a3d78b7ecac4859d49",
+        "sha256_in_prefix": "58992cebcf8dfb6e40c4e2112ed12126c243666dca3912a3d78b7ecac4859d49",
+        "size_in_bytes": 1086
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer-0.4.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7a0c82c1026bfd13d2ad06f930a1bb8551e9dfed12e2e626d813e4b584a8b462",
+        "sha256_in_prefix": "7a0c82c1026bfd13d2ad06f930a1bb8551e9dfed12e2e626d813e4b584a8b462",
+        "size_in_bytes": 12012
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer-0.4.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "602af63c911093a3275f3b4ad00848739b46247bccceaf05fb55248e764f2ed9",
+        "sha256_in_prefix": "602af63c911093a3275f3b4ad00848739b46247bccceaf05fb55248e764f2ed9",
+        "size_in_bytes": 2106
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer-0.4.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer-0.4.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "18b1126fe0223bd4c58db5eb100ed4acd9787705a5917a0a660e8de958343898",
+        "sha256_in_prefix": "18b1126fe0223bd4c58db5eb100ed4acd9787705a5917a0a660e8de958343898",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer-0.4.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8d8d7bcfca103c4b0360c240ca221b352b8a3a13a147ec3862d62b6a097a655f",
+        "sha256_in_prefix": "8d8d7bcfca103c4b0360c240ca221b352b8a3a13a147ec3862d62b6a097a655f",
+        "size_in_bytes": 178
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7e5462ed1114b4dc674cf121e91a8186e19b84f1fc48fcd47d68ec34d39f15ba",
+        "sha256_in_prefix": "7e5462ed1114b4dc674cf121e91a8186e19b84f1fc48fcd47d68ec34d39f15ba",
+        "size_in_bytes": 1602
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "995860fa3316a5ae23487882395e72b24fccc8990f9c8d3a79b10988d2c6783a",
+        "sha256_in_prefix": "995860fa3316a5ae23487882395e72b24fccc8990f9c8d3a79b10988d2c6783a",
+        "size_in_bytes": 1378
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/_completion_click7.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e20c75026267f6e91a81c9ed7e9ec24b4e4b6ce0019a1205e881b4a2025a31b3",
+        "sha256_in_prefix": "e20c75026267f6e91a81c9ed7e9ec24b4e4b6ce0019a1205e881b4a2025a31b3",
+        "size_in_bytes": 4165
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/_completion_click8.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "09d4cd7da381edc273e19be2b78f50fe243176a95543c6e6d5bdb769f46adf4f",
+        "sha256_in_prefix": "09d4cd7da381edc273e19be2b78f50fe243176a95543c6e6d5bdb769f46adf4f",
+        "size_in_bytes": 5941
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/_completion_shared.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "132f5de4fc134eae8aeb3a5a558cc161769025064c560581ddc7ebd9e0647455",
+        "sha256_in_prefix": "132f5de4fc134eae8aeb3a5a558cc161769025064c560581ddc7ebd9e0647455",
+        "size_in_bytes": 6289
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/colors.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea50afb8c8da098bbd589e4ccdb1143725f4c6c5f7935f8c13f3ef7eb76fdec5",
+        "sha256_in_prefix": "ea50afb8c8da098bbd589e4ccdb1143725f4c6c5f7935f8c13f3ef7eb76fdec5",
+        "size_in_bytes": 580
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/completion.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "776c8169cb851f324c619a959c4bc780b920ff178713d2cfa862f7e1577e9ea4",
+        "sha256_in_prefix": "776c8169cb851f324c619a959c4bc780b920ff178713d2cfa862f7e1577e9ea4",
+        "size_in_bytes": 3836
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/core.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb5ed6b6f5548b562a6b8891ae4e763691b32e16a240113561747ecb68e28d81",
+        "sha256_in_prefix": "fb5ed6b6f5548b562a6b8891ae4e763691b32e16a240113561747ecb68e28d81",
+        "size_in_bytes": 11304
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/main.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "22d0f2053bf4724a9e1bdd74b5a6795180ee0ccb0289e8d9a3cde17021a7b1d6",
+        "sha256_in_prefix": "22d0f2053bf4724a9e1bdd74b5a6795180ee0ccb0289e8d9a3cde17021a7b1d6",
+        "size_in_bytes": 18976
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/models.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "75f3896077ad67bc409ecac4e787faa11c9effeb5c075c9161fa9f905dacd922",
+        "sha256_in_prefix": "75f3896077ad67bc409ecac4e787faa11c9effeb5c075c9161fa9f905dacd922",
+        "size_in_bytes": 10454
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/params.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "78fef080a5959554023479ac71cdf4e7fdaa040e7643e4adffb3212c36432b1d",
+        "sha256_in_prefix": "78fef080a5959554023479ac71cdf4e7fdaa040e7643e4adffb3212c36432b1d",
+        "size_in_bytes": 4184
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/testing.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4f27703aa51cffeda44057ffdfc060d7285d9269c29c21497484e45cf005688",
+        "sha256_in_prefix": "e4f27703aa51cffeda44057ffdfc060d7285d9269c29c21497484e45cf005688",
+        "size_in_bytes": 1159
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6995542d615c76b1ffbceb898f11e8ef81ce9d325ee3f188e43d5d2d8919ed4b",
+        "sha256_in_prefix": "6995542d615c76b1ffbceb898f11e8ef81ce9d325ee3f188e43d5d2d8919ed4b",
+        "size_in_bytes": 882
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/_completion_click7.py",
+        "path_type": "hardlink",
+        "sha256": "b7c4968f29b29d503c7340461b8e37a8a77649ae7b7a207f2c54dd44313db777",
+        "sha256_in_prefix": "b7c4968f29b29d503c7340461b8e37a8a77649ae7b7a207f2c54dd44313db777",
+        "size_in_bytes": 4957
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/_completion_click8.py",
+        "path_type": "hardlink",
+        "sha256": "d267196e0547f701e7f4e0e0d2032b91a7da14a817eafbb690a5c74dc9e10f4b",
+        "sha256_in_prefix": "d267196e0547f701e7f4e0e0d2032b91a7da14a817eafbb690a5c74dc9e10f4b",
+        "size_in_bytes": 6688
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/_completion_shared.py",
+        "path_type": "hardlink",
+        "sha256": "07d57ab9af0bc9668092450a3be34d73bbc19793d036b5b9a1366b0434c02eb8",
+        "sha256_in_prefix": "07d57ab9af0bc9668092450a3be34d73bbc19793d036b5b9a1366b0434c02eb8",
+        "size_in_bytes": 8541
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/colors.py",
+        "path_type": "hardlink",
+        "sha256": "7b8da3f2e079db484ba57e42ff47e247738ea0814c6e13b700366fbfa865015f",
+        "sha256_in_prefix": "7b8da3f2e079db484ba57e42ff47e247738ea0814c6e13b700366fbfa865015f",
+        "size_in_bytes": 430
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/completion.py",
+        "path_type": "hardlink",
+        "sha256": "8708cc7c97a1a3c7deef6e4f2ca620addfe71ba176ebc49ad75a71058d616b88",
+        "sha256_in_prefix": "8708cc7c97a1a3c7deef6e4f2ca620addfe71ba176ebc49ad75a71058d616b88",
+        "size_in_bytes": 4953
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/core.py",
+        "path_type": "hardlink",
+        "sha256": "fa3a6037d487b1e71fc9670571da3a0b712bad4bfae0b81a027a3ce9abbe0aa9",
+        "sha256_in_prefix": "fa3a6037d487b1e71fc9670571da3a0b712bad4bfae0b81a027a3ce9abbe0aa9",
+        "size_in_bytes": 16049
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/main.py",
+        "path_type": "hardlink",
+        "sha256": "f06eae73c1be5d5d3efb3c17b205c40a31363e608e5aee5689aa94f99d6a66fa",
+        "sha256_in_prefix": "f06eae73c1be5d5d3efb3c17b205c40a31363e608e5aee5689aa94f99d6a66fa",
+        "size_in_bytes": 32258
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/models.py",
+        "path_type": "hardlink",
+        "sha256": "ea8e8aa46b7670377c74041e9b2b7ec112e430ff8e175336199e4db31e2fc5d3",
+        "sha256_in_prefix": "ea8e8aa46b7670377c74041e9b2b7ec112e430ff8e175336199e4db31e2fc5d3",
+        "size_in_bytes": 13484
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/params.py",
+        "path_type": "hardlink",
+        "sha256": "49379cf3852e05bb626aad2dcf668089704aa965ff28252aa89c7ad9f09d66f6",
+        "sha256_in_prefix": "49379cf3852e05bb626aad2dcf668089704aa965ff28252aa89c7ad9f09d66f6",
+        "size_in_bytes": 5701
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/testing.py",
+        "path_type": "hardlink",
+        "sha256": "8603764d6c767d9085df83883d0240791884cc21e9bc732c770575442cbcdaea",
+        "sha256_in_prefix": "8603764d6c767d9085df83883d0240791884cc21e9bc732c770575442cbcdaea",
+        "size_in_bytes": 881
+      },
+      {
+        "_path": "lib/python3.10/site-packages/typer/utils.py",
+        "path_type": "hardlink",
+        "sha256": "5a767f9c8526ce61554ab322d413a575d7790bcbab642a4452e242453ec9e107",
+        "sha256_in_prefix": "5a767f9c8526ce61554ab322d413a575d7790bcbab642a4452e242453ec9e107",
+        "size_in_bytes": 685
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "68ee4961809b466bf563603c2420000f92c5ea360f178cb3070c9577236968b4",
+  "size": 50782,
+  "subdir": "osx-64",
+  "timestamp": 1651237254679,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/typer-0.4.1-py310hecd8cb5_0.conda",
+  "version": "0.4.1"
+}

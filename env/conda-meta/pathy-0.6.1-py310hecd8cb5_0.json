@@ -1,0 +1,393 @@
+{
+  "build": "py310hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "smart_open >=5.0.0,<6.0.0",
+    "typer >=0.3.0,<1.0.0"
+  ],
+  "extracted_package_dir": "/opt/miniconda3/pkgs/pathy-0.6.1-py310hecd8cb5_0",
+  "features": "",
+  "files": [
+    "bin/pathy",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/LICENSE",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/METADATA",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/RECORD",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/WHEEL",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/entry_points.txt",
+    "lib/python3.10/site-packages/pathy-0.6.1.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/pathy/__init__.py",
+    "lib/python3.10/site-packages/pathy/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/__pycache__/about.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/__pycache__/cli.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/__pycache__/gcs.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/__pycache__/s3.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__init__.py",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/conftest.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_base.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_cli.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_clients.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_file.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_gcs.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_pathy.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_pathy_scandir.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_pure_pathy.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_s3.cpython-310.pyc",
+    "lib/python3.10/site-packages/pathy/_tests/conftest.py",
+    "lib/python3.10/site-packages/pathy/_tests/fixtures/tar_but_not_gzipped.tar.gz",
+    "lib/python3.10/site-packages/pathy/_tests/test_base.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_cli.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_clients.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_file.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_gcs.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_pathy.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_pathy_scandir.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_pure_pathy.py",
+    "lib/python3.10/site-packages/pathy/_tests/test_s3.py",
+    "lib/python3.10/site-packages/pathy/about.py",
+    "lib/python3.10/site-packages/pathy/cli.py",
+    "lib/python3.10/site-packages/pathy/gcs.py",
+    "lib/python3.10/site-packages/pathy/py.typed",
+    "lib/python3.10/site-packages/pathy/s3.py"
+  ],
+  "fn": "pathy-0.6.1-py310hecd8cb5_0.conda",
+  "legacy_bz2_md5": "c784be67e85d284259c5b6acf1c846de",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/opt/miniconda3/pkgs/pathy-0.6.1-py310hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "ee0469c85be916532f503b9691b1163c",
+  "name": "pathy",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/pathy-0.6.1-py310hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pathy",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d4f5f825-2713-47fc-8dc8-e4a3b575be846jsj5cz_/croots/recipe/pathy_1651566175787/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "60756c1b590c2604601b279b1fd6e91886a0fbc402a04d2652affa032ee37a5c",
+        "sha256_in_prefix": "07e15dfc8ac651a9578ce58eadeafbd5c051b02ee8ebb425c2f908398855e5b4",
+        "size_in_bytes": 460
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "27b73429358bcbd76b8f07f343e46fb093fe7f2559821dd60b34b26b8a93627f",
+        "sha256_in_prefix": "27b73429358bcbd76b8f07f343e46fb093fe7f2559821dd60b34b26b8a93627f",
+        "size_in_bytes": 11345
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c1190cf27efab634a42f64f0f5f227e69a7b10e60b7ae8417fa730344a62925f",
+        "sha256_in_prefix": "c1190cf27efab634a42f64f0f5f227e69a7b10e60b7ae8417fa730344a62925f",
+        "size_in_bytes": 14882
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "99af24e3b95573b244a09d63896b4976dff8efdaa00f0aa894a41615859e7913",
+        "sha256_in_prefix": "99af24e3b95573b244a09d63896b4976dff8efdaa00f0aa894a41615859e7913",
+        "size_in_bytes": 3093
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2db1bffa585a428d070437218e68d26d1b7d68fa1357f1926b090708fdc0fcf1",
+        "sha256_in_prefix": "2db1bffa585a428d070437218e68d26d1b7d68fa1357f1926b090708fdc0fcf1",
+        "size_in_bytes": 178
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "a3696075659634f86aec8f2e5317f95d81caf1611424fee8d217e078049106ca",
+        "sha256_in_prefix": "a3696075659634f86aec8f2e5317f95d81caf1611424fee8d217e078049106ca",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy-0.6.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1de11d82d720e540fb93ed0543ef071224545a72d967edddf4ef1a1da3e07ab4",
+        "sha256_in_prefix": "1de11d82d720e540fb93ed0543ef071224545a72d967edddf4ef1a1da3e07ab4",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f4a781c5405fb943d8248c8d2f2a5a203d010b592d0a6c53b3fa0e8ed7a51cd8",
+        "sha256_in_prefix": "f4a781c5405fb943d8248c8d2f2a5a203d010b592d0a6c53b3fa0e8ed7a51cd8",
+        "size_in_bytes": 44459
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff04a0dfd69b956e2cb36dbade5426d4b3ca1f3d669e5bbb292d2d4071e106a2",
+        "sha256_in_prefix": "ff04a0dfd69b956e2cb36dbade5426d4b3ca1f3d669e5bbb292d2d4071e106a2",
+        "size_in_bytes": 40564
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/__pycache__/about.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ffde776c6488be82a33dc666efeb93366beacc47088a62d98028314c80aa651",
+        "sha256_in_prefix": "9ffde776c6488be82a33dc666efeb93366beacc47088a62d98028314c80aa651",
+        "size_in_bytes": 545
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/__pycache__/cli.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f108822d8965bfba392cfbd638ff746d4c0feec0e0f9337b5af0e5c427df5065",
+        "sha256_in_prefix": "f108822d8965bfba392cfbd638ff746d4c0feec0e0f9337b5af0e5c427df5065",
+        "size_in_bytes": 3689
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/__pycache__/gcs.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc707ab4aa1845d128139a514ff0be82753c1b009c04702155dc85e6bb131dd9",
+        "sha256_in_prefix": "cc707ab4aa1845d128139a514ff0be82753c1b009c04702155dc85e6bb131dd9",
+        "size_in_bytes": 6973
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/__pycache__/s3.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8441bfef8da15c183972c2fb8346ffdd64c2a38bf58af52b2dfe6b1e0797120a",
+        "sha256_in_prefix": "8441bfef8da15c183972c2fb8346ffdd64c2a38bf58af52b2dfe6b1e0797120a",
+        "size_in_bytes": 8569
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7884b744be058455819591211c12c481eb585a0891684d7c4c47dcaa609de486",
+        "sha256_in_prefix": "7884b744be058455819591211c12c481eb585a0891684d7c4c47dcaa609de486",
+        "size_in_bytes": 263
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f440abd1ff7c78558cf2a3e1cb301a963dfa7bb90923ec196ec5ac801884cbb",
+        "sha256_in_prefix": "8f440abd1ff7c78558cf2a3e1cb301a963dfa7bb90923ec196ec5ac801884cbb",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/conftest.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e88f6aaf0d112a17fe7f41bf690caf26ac934942237af639d73856d4346eefc",
+        "sha256_in_prefix": "0e88f6aaf0d112a17fe7f41bf690caf26ac934942237af639d73856d4346eefc",
+        "size_in_bytes": 3436
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "dd620dfdb02036251730c6fc1014c23179101f44d7209656bcde9333ee8d23d4",
+        "sha256_in_prefix": "dd620dfdb02036251730c6fc1014c23179101f44d7209656bcde9333ee8d23d4",
+        "size_in_bytes": 7737
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_cli.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "446bf038e1a1dc56967ecf38068e3fb8db22f9e87cf5ee4ad9e7295e0de697db",
+        "sha256_in_prefix": "446bf038e1a1dc56967ecf38068e3fb8db22f9e87cf5ee4ad9e7295e0de697db",
+        "size_in_bytes": 8248
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_clients.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "65458ed05a22ae564ca113b3c99d9102a227771bf17c3273615c10af1ba74be3",
+        "sha256_in_prefix": "65458ed05a22ae564ca113b3c99d9102a227771bf17c3273615c10af1ba74be3",
+        "size_in_bytes": 3891
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_file.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c7cb379ff2b5e1528aeb98fc02f4ac0fbb253834c7f74b9bd8821614b93e8db3",
+        "sha256_in_prefix": "c7cb379ff2b5e1528aeb98fc02f4ac0fbb253834c7f74b9bd8821614b93e8db3",
+        "size_in_bytes": 3804
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_gcs.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "082ec1e43bec7ae255dfbe1cd9c0efa8cc52e6c0411ad0588f4481eea32de13e",
+        "sha256_in_prefix": "082ec1e43bec7ae255dfbe1cd9c0efa8cc52e6c0411ad0588f4481eea32de13e",
+        "size_in_bytes": 3003
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_pathy.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "42c394ef86f61632f49d34629e9abcba32a01daaeb8412ecd2f883524e41f153",
+        "sha256_in_prefix": "42c394ef86f61632f49d34629e9abcba32a01daaeb8412ecd2f883524e41f153",
+        "size_in_bytes": 17473
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_pathy_scandir.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9fcdf2ac7d93844ea880c610c07cb1f6dcf461531e8db591b1f28b060aa73b84",
+        "sha256_in_prefix": "9fcdf2ac7d93844ea880c610c07cb1f6dcf461531e8db591b1f28b060aa73b84",
+        "size_in_bytes": 2079
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_pure_pathy.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "33885dbcbcf1507f20e7da393397732c9bbcf438647d8352c42d0ac5da032ba6",
+        "sha256_in_prefix": "33885dbcbcf1507f20e7da393397732c9bbcf438647d8352c42d0ac5da032ba6",
+        "size_in_bytes": 7888
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/__pycache__/test_s3.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3d52f5ef42e5c61ac29f5aa32cb5a8b740463ebe904815e221e71595c414b844",
+        "sha256_in_prefix": "3d52f5ef42e5c61ac29f5aa32cb5a8b740463ebe904815e221e71595c414b844",
+        "size_in_bytes": 2799
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/conftest.py",
+        "path_type": "hardlink",
+        "sha256": "c6ecfd1e17b0d6dface89dd447f7549fbe0ed1015859c2887b5c07f203da5199",
+        "sha256_in_prefix": "c6ecfd1e17b0d6dface89dd447f7549fbe0ed1015859c2887b5c07f203da5199",
+        "size_in_bytes": 4056
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/fixtures/tar_but_not_gzipped.tar.gz",
+        "path_type": "hardlink",
+        "sha256": "4f1a03f4bb3e5af700705c6e48fded94dfff7932796789153dcdbf02f24ccd27",
+        "sha256_in_prefix": "4f1a03f4bb3e5af700705c6e48fded94dfff7932796789153dcdbf02f24ccd27",
+        "size_in_bytes": 2560
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_base.py",
+        "path_type": "hardlink",
+        "sha256": "e16ec2d043fd66364cecdb97036b474feadd0635903b1a4bc785a0778a976026",
+        "sha256_in_prefix": "e16ec2d043fd66364cecdb97036b474feadd0635903b1a4bc785a0778a976026",
+        "size_in_bytes": 6813
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_cli.py",
+        "path_type": "hardlink",
+        "sha256": "3ef3091c51480e98e7e3f216dd5ac148eb2006c9848f468bb93753c3f7feabee",
+        "sha256_in_prefix": "3ef3091c51480e98e7e3f216dd5ac148eb2006c9848f468bb93753c3f7feabee",
+        "size_in_bytes": 10064
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_clients.py",
+        "path_type": "hardlink",
+        "sha256": "9668f6b87631748f38683612710ed7645852bbe84b15b2ae50d07375090e91a1",
+        "sha256_in_prefix": "9668f6b87631748f38683612710ed7645852bbe84b15b2ae50d07375090e91a1",
+        "size_in_bytes": 3760
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_file.py",
+        "path_type": "hardlink",
+        "sha256": "b91c90a4637181c50fa8621d0b06137d0faf11c3eb9aabef9c2fe0ecfb9cd000",
+        "sha256_in_prefix": "b91c90a4637181c50fa8621d0b06137d0faf11c3eb9aabef9c2fe0ecfb9cd000",
+        "size_in_bytes": 3548
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_gcs.py",
+        "path_type": "hardlink",
+        "sha256": "303ca64779eaa0c2c9e0905542ef0e228e2ed2110958a31ba49048e6e0a5a1e2",
+        "sha256_in_prefix": "303ca64779eaa0c2c9e0905542ef0e228e2ed2110958a31ba49048e6e0a5a1e2",
+        "size_in_bytes": 2730
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_pathy.py",
+        "path_type": "hardlink",
+        "sha256": "3456596aa98b536838ed22d30bba9c60a863b9f6bc7745525c8f0dc1b605feb7",
+        "sha256_in_prefix": "3456596aa98b536838ed22d30bba9c60a863b9f6bc7745525c8f0dc1b605feb7",
+        "size_in_bytes": 21809
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_pathy_scandir.py",
+        "path_type": "hardlink",
+        "sha256": "82027ef6bf46f049b7d4bb077fd8411ef4984691dfc09f3d57c52125d4129ca6",
+        "sha256_in_prefix": "82027ef6bf46f049b7d4bb077fd8411ef4984691dfc09f3d57c52125d4129ca6",
+        "size_in_bytes": 1167
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_pure_pathy.py",
+        "path_type": "hardlink",
+        "sha256": "9cb93e9ae891105b4f411b266771bccb266972ad56f5e376f7c9ca8d4ea0aa51",
+        "sha256_in_prefix": "9cb93e9ae891105b4f411b266771bccb266972ad56f5e376f7c9ca8d4ea0aa51",
+        "size_in_bytes": 7889
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/_tests/test_s3.py",
+        "path_type": "hardlink",
+        "sha256": "25488b3f202187774e0d1b19b460cb04f1089acf5e2780842dd3e6b9af9c402b",
+        "sha256_in_prefix": "25488b3f202187774e0d1b19b460cb04f1089acf5e2780842dd3e6b9af9c402b",
+        "size_in_bytes": 2305
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/about.py",
+        "path_type": "hardlink",
+        "sha256": "0b3e1f6462803563613d607b9eb91f33eba06efdb545ff86d49ae10745388e25",
+        "sha256_in_prefix": "0b3e1f6462803563613d607b9eb91f33eba06efdb545ff86d49ae10745388e25",
+        "size_in_bytes": 306
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/cli.py",
+        "path_type": "hardlink",
+        "sha256": "436f33fd94acd8d0b1ad5779c69c449237354439406bd678a737ccae233135a4",
+        "sha256_in_prefix": "436f33fd94acd8d0b1ad5779c69c449237354439406bd678a737ccae233135a4",
+        "size_in_bytes": 4883
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/gcs.py",
+        "path_type": "hardlink",
+        "sha256": "3dfa34e87dd6ceb52005ee7a4e5d47c4dd290ed6a27bfca43a8100f59401eec4",
+        "sha256_in_prefix": "3dfa34e87dd6ceb52005ee7a4e5d47c4dd290ed6a27bfca43a8100f59401eec4",
+        "size_in_bytes": 7518
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/pathy/s3.py",
+        "path_type": "hardlink",
+        "sha256": "5f58b13fc48dae89ed2661019491425600ddd7e82d9b040258724e9f85f5923d",
+        "sha256_in_prefix": "5f58b13fc48dae89ed2661019491425600ddd7e82d9b040258724e9f85f5923d",
+        "size_in_bytes": 9057
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0221e962ddf3e5c67d24adfd705268a30fa89f74eb79e0a94da29cb672464bbb",
+  "size": 76330,
+  "subdir": "osx-64",
+  "timestamp": 1651566305879,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pathy-0.6.1-py310hecd8cb5_0.conda",
+  "version": "0.6.1"
+}

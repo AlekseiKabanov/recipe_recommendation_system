@@ -1,0 +1,14 @@
+prefix=/Users/alex/Desktop/rec_syst/env
+exec_prefix=/Users/alex/Desktop/rec_syst/env
+libdir=/Users/alex/Desktop/rec_syst/env/lib
+includedir=/Users/alex/Desktop/rec_syst/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.0.18
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -L/Users/alex/Desktop/rec_syst/env/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2
